@@ -65,27 +65,34 @@ RESULTS: <br>
 
 ### CHALLENGE 10
 QUERY: <br>
-
+<img width="552" alt="Screen Shot 2021-07-01 at 2 50 58 AM" src="https://user-images.githubusercontent.com/83942170/124000666-2b455880-da17-11eb-8323-5af3a59c7805.png">
 
 RESULTS: <br>
+<img width="247" alt="Screen Shot 2021-07-01 at 2 51 48 AM" src="https://user-images.githubusercontent.com/83942170/124000787-487a2700-da17-11eb-98ec-dd01b5011f14.png">
+<img width="793" alt="Screen Shot 2021-07-01 at 3 07 42 AM" src="https://user-images.githubusercontent.com/83942170/124002783-811b0000-da19-11eb-8ee6-046211ca9b93.png">
 
 ### CHALLENGE 11
 QUERY: <br>
-
+<img width="434" alt="Screen Shot 2021-07-01 at 3 01 27 AM" src="https://user-images.githubusercontent.com/83942170/124002036-a1968a80-da18-11eb-9bab-b8f515a830a9.png">
 
 RESULTS: <br>
+<img width="242" alt="Screen Shot 2021-07-01 at 3 00 32 AM" src="https://user-images.githubusercontent.com/83942170/124001923-80ce3500-da18-11eb-8f4c-30ab881596db.png">
 
 ### CHALLENGE 12
 QUERY: <br>
-
+<img width="448" alt="Screen Shot 2021-07-01 at 3 02 47 AM" src="https://user-images.githubusercontent.com/83942170/124002223-d1459280-da18-11eb-830b-55b9403a252a.png">
 
 RESULTS: <br>
+<img width="248" alt="Screen Shot 2021-07-01 at 3 02 54 AM" src="https://user-images.githubusercontent.com/83942170/124002236-d60a4680-da18-11eb-845f-556d7bbfd1b5.png">
 
 ### CHALLENGE 13
 QUERY: <br>
-
+<img width="280" alt="Screen Shot 2021-07-01 at 3 08 35 AM" src="https://user-images.githubusercontent.com/83942170/124002885-a0b22880-da19-11eb-957f-0d54ae747079.png">
 
 RESULTS: <br>
+<img width="616" alt="Screen Shot 2021-07-01 at 3 09 05 AM" src="https://user-images.githubusercontent.com/83942170/124002932-b293cb80-da19-11eb-87a4-c3a9568b82eb.png">
+
+
 
 
 
