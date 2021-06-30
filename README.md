@@ -93,13 +93,7 @@ RESULTS: <br>
 <img width="616" alt="Screen Shot 2021-07-01 at 3 09 05 AM" src="https://user-images.githubusercontent.com/83942170/124002932-b293cb80-da19-11eb-87a4-c3a9568b82eb.png">
 
 (extra?): <br>
-<img width="337" alt="Screen Shot 2021-07-01 at 3 15 50 AM" src="https://user-images.githubusercontent.com/83942170/124003752-a3f9e400-da1a-11eb-939a-dbd90db12b66.png">
-
-
-
-
-
-
+<img width="286" alt="Screen Shot 2021-07-01 at 3 16 54 AM" src="https://user-images.githubusercontent.com/83942170/124003902-ca1f8400-da1a-11eb-8ed8-2a159dd68aee.png">
 
 
 
