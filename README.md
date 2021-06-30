@@ -1,6 +1,9 @@
 # database-checkpoint
 
 CHALLENGE 1
+QUERY:
+RESULTS:
+
 CHALLENGE 2
 CHALLENGE 3
 CHALLENGE 4
